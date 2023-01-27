@@ -23,5 +23,3 @@ while (FirstNumber != 0 and SecondNumber != 0):
     if (Sign == "**" or Sign == "5"): 
         FirstNumber = FirstNumber**SecondNumber
         print(FirstNumber)
-
-    
